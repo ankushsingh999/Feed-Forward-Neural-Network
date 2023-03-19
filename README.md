@@ -1,6 +1,6 @@
 # Feed Forward Neural Network
 
-Implemented stochastic gradient descent for the multi-layer neural network shown above. The algorithm works for any number of hidden layers.
+Implemented stochastic gradient descent for the multi-layer neural network shown below. The algorithm works for any number of hidden layers.
 
 ![image](https://user-images.githubusercontent.com/64325043/226217208-9b87a170-3440-4d0d-a324-5fd6eeb2d65e.png)
 ![image](https://user-images.githubusercontent.com/64325043/226217192-ada3b6ee-6cae-406d-8cd7-9666b81063a9.png)
