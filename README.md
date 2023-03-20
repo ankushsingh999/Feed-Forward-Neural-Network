@@ -20,7 +20,7 @@ Epochs : 150
 Learning Rate : 0.001
 Mini Batch Size: 128
 
-The accuracy obtained was # 87.6%
+The accuracy obtained was # 87.44%
 
 ![image](https://user-images.githubusercontent.com/64325043/226217358-9c9f6a00-f18b-4ab3-9be9-59422c1d3d8a.png)
 
